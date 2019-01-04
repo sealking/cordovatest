@@ -1,0 +1,10 @@
+{
+	"android": {
+		"release": {
+			"keystore": "myKeystore",
+			"alias": "myKeystore",
+			"storePassword": "lzt1346.",
+			"password": "lzt1346."
+		}
+	}
+}

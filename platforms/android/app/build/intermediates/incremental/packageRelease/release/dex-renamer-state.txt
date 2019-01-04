@@ -1,0 +1,4 @@
+#Fri Jan 04 13:35:29 CST 2019
+base.0=E\:\\Workspace_cordova\\vuetest\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
