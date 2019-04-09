@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.example.vuetest" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>vuetest</name>
+    <name>安全考试</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
@@ -23,5 +23,6 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
+    <plugin name="cordova-plugin-file-transfer" spec="^1.7.1" />
     <engine name="android" spec="^7.1.4" />
 </widget>
